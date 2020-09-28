@@ -16,4 +16,4 @@ There's no point in adding logic on the RPi. Just throw everything at an MQTT se
 [cir]:https://github.com/northox/hotwire/raw/master/ "Circuit"
 [front]:https://github.com/northox/hotwire/raw/master/front.jpeg "Front of shield"
 [back]:https://github.com/northox/hotwire/raw/master/back.jpeg "back of shield"
-[result]:https://github.com/northox/hotwire/raw/master/ "Result"
+[result]:https://github.com/northox/hotwire/raw/master/result.png "Result"
