@@ -15,7 +15,7 @@ There's no point in adding logic on the RPi. Just throw everything at an MQTT se
 
 ![result]
 
-[installed]:https://github.com/northox/hotwire/raw/master/ "Old Alarm System with rpi board and shield"
+[installed]:https://github.com/northox/hotwire/raw/master/installed.jpeg "Old Alarm System with rpi board and shield"
 [front]:https://github.com/northox/hotwire/raw/master/front.jpeg "Front of shield"
 [back]:https://github.com/northox/hotwire/raw/master/back.jpeg "back of shield"
 [result]:https://github.com/northox/hotwire/raw/master/result.png "Result"
